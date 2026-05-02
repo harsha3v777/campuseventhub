@@ -1,5 +1,7 @@
 # 🎓 IIIT Sonepat — EventHub
 
+LIVE DEMO - https://campus-event-hub-alpha.vercel.app/
+
 > Student Event Management Portal for IIIT Sonepat  
 > Built with React + Vite · Deployed on the web
 
